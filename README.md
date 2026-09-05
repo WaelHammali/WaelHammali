@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2ECC71&height=200&section=header&text=Wael%20Hammali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Cybersecurity%20%C3%97%20Cloud%20%7C%20ENIT%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1b3a2f,100:2ECC71&height=200&section=header&text=Wael%20Hammali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Cybersecurity%20Engineer%20%7C%20Automation%20%26%20Cloud%20%7C%20ENIT&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Building+secure%2C+intelligent+systems;RAG+%2B+Computer+Vision+enthusiast;Penetration+Testing+%26+Network+Security;CTF+Player+%7C+HTB+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=AI+Engineer+%E2%80%94+RAG+%2B+Computer+Vision;Offensive+Security+%26+Penetration+Testing;LLM-Driven+Security+Automation;CTF+Player+%7C+HTB+Player" alt="Typing SVG" />
 
 <br/>
 
@@ -28,42 +28,48 @@
 ### 🧠 About Me
 
 - 🎓 B.Eng in Software Engineering @ **ENIT** (2024–2027)
-- 🔭 Currently building AI-powered infrastructure & pentesting tools
-- 🌱 Focused on **RAG, Computer Vision, Cloud Security, Network Automation**
+- 🤖 Building **AI systems** — fine-tuned computer vision (YOLOv8), RAG pipelines, and LLM-driven applications
+- 🛡️ Practicing **offensive security** — penetration testing, vulnerability analysis, and AI-assisted exploitation
+- ⚙️ Using **automation** to connect the two — turning AI outputs into deployable, secure infrastructure (Terraform/Ansible)
 - 🎯 Competitive hacker — CTF Player & HTB Player
 - 📄 Certified: **CAPT (Hackviser)**, **CCNA: Intro to Networks**, **CCNA: Switching, Routing & Wireless**
-- 💬 Ask me about YOLOv8, Terraform/Ansible automation, or LLM-driven pentesting
+- 💬 Ask me about YOLOv8 fine-tuning, RAG architectures, or LLM-driven pentesting
 - 📫 Reach me: wael.hammali@etudiant-enit.utm.tn
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-**Security**
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-</p>
-
-**AI & Automation**
+**🤖 AI & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-2ECC71?style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-2ECC71?style=flat-square"/>
 </p>
 
-**Development**
+**🛡️ Cybersecurity & Offensive Security**
+<p>
+  <img src="https://img.shields.io/badge/Penetration_Testing-2596CD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Security-2596CD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OSINT-2596CD?style=flat-square"/>
+</p>
+
+**⚙️ Automation & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+**💻 Development**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -80,27 +86,27 @@
 <td width="50%">
 
 **[🛡️ Pentest_Command_DAGDIG](https://github.com/WaelHammali/Pentest_Command_DAGDIG)**
-AI-powered CLI pentesting framework combining multimodal LLMs + Bash to automate recon, vuln analysis, and attack workflows.
+AI-powered CLI pentesting framework combining multimodal LLMs + Bash automation to run recon, vuln analysis, and attack workflows.
 
 </td>
 <td width="50%">
 
-**[✈️ Aerial-object-detection](https://github.com/WaelHammali/Aerial-object-detection)**
-Dual-model YOLOv8 pipeline detecting trees, cars & buildings from aerial imagery — solves severe class imbalance.
+**[⚽ Jersey Number Recognition](https://github.com/WaelHammali/Jersey-number-pipeline-extension)**
+ESRGAN super-resolution + pose estimation pipeline improving AI jersey-number recognition in broadcast soccer footage.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[☁️ Advanced-RAG-Net-to-Cloud](https://github.com/WaelHammali/Advanced-RAG-For-Net_To_Cloud-Translation)**
-Translates network topology diagrams into secure cloud infra, auto-generating Terraform + Ansible configs.
+**[✈️ Aerial Object Detection](https://github.com/WaelHammali/Aerial-object-detection)**
+Dual-model YOLOv8 computer vision pipeline detecting trees, cars & buildings from aerial imagery.
 
 </td>
 <td width="50%">
 
-**[⚽ Jersey Number Recognition](https://github.com/WaelHammali/Jersey-number-pipeline-extension)**
-ESRGAN super-resolution + pose estimation pipeline improving jersey number recognition in broadcast soccer footage.
+**[☁️ RAG Net-to-Cloud Automation](https://github.com/WaelHammali/Advanced-RAG-For-Net_To_Cloud-Translation)**
+AI (YOLOv8 + RAG) reads network diagrams and auto-generates secure, deployable Terraform/Ansible infrastructure.
 
 </td>
 </tr>
