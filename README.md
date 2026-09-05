@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wael-hammali.vercel.app/Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="mailto:wael.hammali@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://your-live-demo-link-here"><img src="https://img.shields.io/badge/🌌_3D_SPACE_DEMO-000000?style=for-the-badge&labelColor=03040a"/></a>
 
 </div>
 
@@ -111,6 +112,14 @@ AI (YOLOv8 + RAG) reads network diagrams and auto-generates secure, deployable T
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**[🌌 Interactive 3D Space Scene →](https://your-live-demo-link-here)**
+
+A cinematic Three.js solar system built as an animated portfolio hero — twinkling starfield, a glowing sun, and orbiting planets with rings, atmospheres, and a moon, all rendered live in the browser.
+
+</div>
 
 ---
 
