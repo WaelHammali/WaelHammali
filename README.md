@@ -1,15 +1,27 @@
-<h1 align="center">Hi 👋, I'm Wael Hammali</h1>
-<h3 align="center">Software Engineering Student @ENIT | AI (RAG, Computer Vision) × Cybersecurity</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+secure%2C+intelligent+systems;RAG+%2B+Computer+Vision+enthusiast;Penetration+Testing+%26+Network+Security;CTF+Player+%7C+HTB+Player" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2ECC71&height=200&section=header&text=Wael%20Hammali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Cybersecurity%20%C3%97%20Cloud%20%7C%20ENIT%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:wael.hammali@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Building+secure%2C+intelligent+systems;RAG+%2B+Computer+Vision+enthusiast;Penetration+Testing+%26+Network+Security;CTF+Player+%7C+HTB+Player" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://wael-hammali.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_VIEW_MY_FULL_PORTFOLIO-2ECC71?style=for-the-badge&logoColor=white&labelColor=0f2027"/>
+</a>
+
+<br/><br/>
+
+<a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wael-hammali.vercel.app/Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="mailto:wael.hammali@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+---
+
+> 💡 **This README gives you the highlights — for the full experience (live project demos, certifications, academic reports, and detailed case studies) visit my portfolio: [wael-hammali.vercel.app](https://wael-hammali.vercel.app/)**
 
 ---
 
@@ -109,6 +121,17 @@ ESRGAN super-resolution + pose estimation pipeline improving jersey number recog
 
 ---
 
-<p align="center">
-  <em>Open to AI, Cloud, and Cybersecurity internships & collaborations 🚀</em>
-</p>
+---
+
+<div align="center">
+
+### 🌐 Want to see everything in one place?
+
+**[→ wael-hammali.vercel.app](https://wael-hammali.vercel.app/)**
+Live project demos · Case studies · Certifications · Academic reports · Contact form
+
+<em>Open to AI, Cloud, and Cybersecurity internships & collaborations 🚀</em>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
