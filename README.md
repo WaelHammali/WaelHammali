@@ -143,7 +143,10 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 
 <div align="center">
 
-**🕶️ VoidHawk** — extended fork of *Watchtower*: **6-agent LangGraph** state machine with a **RAG memory** (ChromaDB + Sentence-Transformers) for cross-session knowledge and a severity-ranking engine producing **CVSS-scored** reports. *Chained with IntelForge into the end-to-end **DarkIntel** pipeline.*
+**[🕶️ VoidHawk Penetration Testing Framework](https://github.com/WaelHammali/VoidHawk)** — extended fork of *Watchtower*: a **6-agent LangGraph** state machine (Planner · Worker · Cleaner · Analyst · Logic · Validator) with a **RAG memory** (ChromaDB + Sentence-Transformers) for cross-session knowledge and a severity-ranking engine producing **CVSS-scored** reports in PDF / HTML / Markdown.
+`Python · LangGraph · Groq · OpenAI · ChromaDB`
+
+*Chained with [IntelForge](https://github.com/WaelHammali/IntelForge) into the unified end-to-end **DarkIntel** pipeline.*
 
 </div>
 
