@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1b3a2f,100:2ECC71&height=210&section=header&text=Wael%20Hammali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C3%97%20Cybersecurity%20Engineer%20%20%7C%20%20LLM%20Automation%20%7C%20Computer%20Vision%20%7C%20ENIT&descAlignY=56&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=680&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Offensive+Security+%7C+CAPT+%7C+CTF+%26+HTB+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=680&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Researching+AI+for+Security+%26+Communication+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -38,6 +38,40 @@
 
 ---
 
+### 🔬 Research Focus
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm moving deliberately from applied engineering toward **research**. I'm currently enrolled in ENIT's **Research Master in Communication Systems (SYSCOM)**, and my academic + project work increasingly sits at one intersection:
+
+> **How can autonomous, multi-agent AI (LLM reasoning, RAG, computer vision) be applied to security and communication systems that operate reliably in the real world?**
+
+- **Security research** — the reasoning layer behind IntelForge/VoidHawk: how LangGraph-orchestrated agents plan, validate and rank findings with persistent (RAG) memory instead of single-shot prompting.
+- **Communication & networked systems** — SYSCOM coursework in RF/antenna systems, wireless communications, IoT and signal processing, with AI/ML as the connecting layer.
+- **Applied computer vision research** — as part of **SympactAI (2nd Edition)**, I led a jersey-number recognition module (Real-ESRGAN super-resolution + ViTPose + PARSeq) for AR sports analytics, within a multidisciplinary research team.
+
+🌍 **Open to research internships and graduate research collaborations** (Mitacs-style programs included) — especially at the intersection of AI/ML, autonomous agents, and security or communication systems.
+
+</td>
+<td width="40%" valign="top" align="center">
+
+**Focus areas**
+
+`AI / ML for Security`
+`Multi-Agent LLM Systems`
+`RAG & Long-Term Memory`
+`Computer Vision`
+`Wireless & Communication Systems`
+`IoT · Signal Processing`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🎯 What I'm Building Now
 
 ```text
@@ -49,7 +83,7 @@ VoidHawk    ──▶  6 specialized AI agents (Planner · Worker · Cleaner · 
                    RAG-backed reports in PDF / HTML / Markdown
 ```
 
-*Two frameworks I built from scratch and wired into one end-to-end pentesting pipeline (**DarkIntel**) during my engineering internship at Keystone Groupe.*
+*Two frameworks I built from scratch and am wiring into one end-to-end pentesting pipeline (**DarkIntel**), started during my engineering internship at Keystone Groupe.*
 
 ---
 
@@ -146,18 +180,18 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 **[🕶️ VoidHawk Penetration Testing Framework](https://github.com/WaelHammali/VoidHawk)** — extended fork of *Watchtower*: a **6-agent LangGraph** state machine (Planner · Worker · Cleaner · Analyst · Logic · Validator) with a **RAG memory** (ChromaDB + Sentence-Transformers) for cross-session knowledge and a severity-ranking engine producing **CVSS-scored** reports in PDF / HTML / Markdown.
 `Python · LangGraph · Groq · OpenAI · ChromaDB`
 
-*Chained with [IntelForge](https://github.com/WaelHammali/IntelForge) into the unified end-to-end **DarkIntel** pipeline.*
+*Chained with [IntelForge](https://github.com/WaelHammali/IntelForge) into the unified end-to-end **[DarkIntel](https://github.com/WaelHammali/DarkIntel)** pipeline.*
 
 </div>
 
 ---
 
-### 💼 Experience & Research
+### 💼 Experience
 
 | When | Role | Where |
 |------|------|-------|
 | **Jun–Jul 2026** | AI-Powered Pentest Command Framework — *DarkIntel* (built IntelForge + VoidHawk, unified pipeline) | **Keystone Groupe** |
-| **Jun–Aug 2026** | Camera Calibration & Jersey Recognition for AR Soccer Analytics — *SympactAI 2nd Ed.* | **TAIS NextGen** |
+| **Jun–Aug 2026** | Research Project — Camera Calibration & Jersey Recognition for AR Soccer Analytics, *SympactAI 2nd Ed.* | **TAIS NextGen** |
 | **Jul–Aug 2025** | Network & Security Infrastructure audit (cabling, switches, firewalls, servers) | **TAV Airports** |
 
 ---
@@ -177,6 +211,20 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 - 🏴 **Securinets** — Cybersecurity Club · CTF competitions & security workshops
 - 💻 **G2FOSS** — Golden Member & Event Organizer · ran the *League of Coders* competitive-programming event
 - 🤖 **FabLab** — Organizing Member · co-organized *Aero-Fab* robotics competition
+
+---
+
+### 🌌 Live Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WaelHammali/WaelHammali/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WaelHammali/WaelHammali/output/github-snake-dark.svg" width="100%"/>
+</p>
+
+<p align="center"><sub>3D isometric contribution graph + contribution snake — both regenerate automatically every 12 hours via GitHub Actions.</sub></p>
 
 ---
 
@@ -210,7 +258,7 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 **[→ wael-hammali.vercel.app](https://wael-hammali.vercel.app/)**
 Live demos · Case studies · Certifications · Academic reports · Contact
 
-<em>Open to AI, Cloud & Cybersecurity internships and collaborations 🚀</em>
+<em>Open to AI, Cloud, Cybersecurity & research internships and collaborations 🚀</em>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0f2027&height=100&section=footer" width="100%"/>
 
