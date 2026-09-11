@@ -224,7 +224,7 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WaelHammali/WaelHammali/output/github-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/WaelHammali/WaelHammali/main/profile-snake/github-snake-dark.svg" width="100%"/>
 </p>
 
 <p align="center"><sub>3D isometric contribution graph + contribution snake — both regenerate automatically every 12 hours via GitHub Actions.</sub></p>
