@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1b3a2f,100:2ECC71&height=210&section=header&text=Wael%20Hammali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C3%97%20Cybersecurity%20Engineer%20%20%7C%20%20LLM%20Automation%20%7C%20Computer%20Vision%20%7C%20ENIT&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010b06,40:0b3d2e,100:2ECC71&height=230&section=header&text=Wael%20Hammali&fontSize=58&fontColor=eafff2&animation=fadeIn&fontAlignY=34&desc=AI%20%C3%97%20Cybersecurity%20Engineer%20%20%E2%80%A2%20%20LLM%20Agents%20%20%E2%80%A2%20%20Computer%20Vision%20%20%E2%80%A2%20%20ENIT&descAlignY=54&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=680&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Researching+AI+for+Security+%26+Communication+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=740&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Researching+AI+for+Security+%26+Communication+Systems" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/🌐_VIEW_MY_FULL_PORTFOLIO-2ECC71?style=for-the-badge&logoColor=white&labelColor=0f2027"/></a>
+<a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/🌐_VIEW_MY_FULL_PORTFOLIO-2ECC71?style=for-the-badge&logoColor=white&labelColor=0b3d2e"/></a>
 
 <br/><br/>
 
@@ -14,13 +14,16 @@
 <a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wael-hammali.vercel.app/Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="mailto:wael.hammali@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=WaelHammali&style=for-the-badge&color=2ECC71&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=WaelHammali&style=for-the-badge&color=0b3d2e&label=PROFILE+VIEWS"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010b06,50:0b3d2e,100:2ECC71&height=4&section=header" width="100%"/>
 
 </div>
 
----
-
-> 💡 **This README is the highlight reel — for live project demos, case studies, certifications and academic reports, visit my portfolio: [wael-hammali.vercel.app](https://wael-hammali.vercel.app/)**
+> [!TIP]
+> **This README is the highlight reel.** For live project demos, case studies, certifications and full academic reports, visit my portfolio → **[wael-hammali.vercel.app](https://wael-hammali.vercel.app/)**
 
 ---
 
