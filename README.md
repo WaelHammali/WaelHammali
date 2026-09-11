@@ -231,16 +231,16 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WaelHammali&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelHammali&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WaelHammali&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0F0B&title_color=2ECC71&icon_color=2ECC71&text_color=B7D364"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelHammali&layout=compact&theme=merko&hide_border=true&langs_count=8&bg_color=0A0F0B&title_color=2ECC71&icon_color=2ECC71&text_color=B7D364"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WaelHammali&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=WaelHammali&theme=merko&hide_border=true&background=0A0F0B&ring=2ECC71&fire=2ECC71&currStreakNum=2ECC71&sideNums=B7D364&currStreakLabel=2ECC71&sideLabels=B7D364&dates=68B587"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WaelHammali&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WaelHammali&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </p>
 
 ---
