@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=740&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Researching+AI+for+Security+%26+Communication+Systems" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
