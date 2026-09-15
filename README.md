@@ -6,10 +6,6 @@
 
 <br/>
 
-<a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/🌐_VIEW_MY_FULL_PORTFOLIO-2ECC71?style=for-the-badge&logoColor=white&labelColor=0b3d2e"/></a>
-
-<br/><br/>
-
 <a href="https://wael-hammali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/wael-hammali-993100360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wael-hammali.vercel.app/Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
