@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010b06,40:0b3d2e,100:2ECC71&height=230&section=header&text=Wael%20Hammali&fontSize=58&fontColor=eafff2&animation=fadeIn&fontAlignY=34&desc=AI%20%C3%97%20Cybersecurity%20Engineer%20%20%E2%80%A2%20%20LLM%20Agents%20%20%E2%80%A2%20%20Computer%20Vision%20%20%E2%80%A2%20%20ENIT&descAlignY=54&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=740&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);Researching+AI+for+Security+%26+Communication+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=740&lines=Software+Engineer+%2B+Research+Master+%40+ENIT;Autonomous+Pentesting+with+LLM+Agents+%2B+LangGraph;RAG+Systems+%26+Computer+Vision+(YOLOv8);IEEE+Published+%7C+AI+%C3%97+Security+%C3%97+Communications" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -27,6 +27,7 @@
 
 - 🎓 **B.Eng. in Software Engineering** @ **ENIT** (2024–2027) — specializing in AI, Computer Vision & Cybersecurity
 - 🔬 **Research Master in Communication Systems (SYSCOM)** @ **ENIT** (2026–Present) — AI/ML for communications, networks & signal processing
+- 📰 **IEEE Published** — co-authored paper on multimodal AI for network-to-cloud infrastructure translation, accepted at **IEEE AIDIST 2026**
 - 🛡️ **Offensive security** — I build **autonomous, LLM-driven penetration-testing frameworks** (OSINT → recon → exploit intelligence)
 - 🤖 **Applied AI** — fine-tuned computer vision (YOLOv8), RAG pipelines, and multi-agent LLM orchestration with **LangGraph**
 - ⚙️ **Automation bridge** — turning AI outputs into deployable, secure infrastructure (Terraform / Ansible)
@@ -34,6 +35,14 @@
 - 🏴 CTF & **HackTheBox** player · member of **Securinets ENIT**
 - 💬 Ask me about **LLM-driven pentesting**, RAG architectures, or YOLOv8 fine-tuning
 - 📫 **wael.hammali@etudiant-enit.utm.tn** · 📍 Tunis, Tunisia
+
+---
+
+### 📰 Publications
+
+| Year | Title | Venue |
+|------|-------|-------|
+| **2026** | Multimodal AI Approach to Converting Network Diagrams into Cloud Infrastructure *(co-authored)* | **IEEE AIDIST 2026** |
 
 ---
 
@@ -49,7 +58,8 @@ I'm moving deliberately from applied engineering toward **research**. I'm curren
 
 - **Security research** — the reasoning layer behind IntelForge/VoidHawk: how LangGraph-orchestrated agents plan, validate and rank findings with persistent (RAG) memory instead of single-shot prompting.
 - **Communication & networked systems** — SYSCOM coursework in RF/antenna systems, wireless communications, IoT and signal processing, with AI/ML as the connecting layer.
-- **Applied computer vision research** — as part of **SympactAI (2nd Edition)**, I led a jersey-number recognition module (Real-ESRGAN super-resolution + ViTPose + PARSeq) for AR sports analytics, within a multidisciplinary research team.
+- **Applied computer vision research** — as part of **SympactAI (2nd Edition)** at TAIS NextGen, I led a jersey-number recognition module (Real-ESRGAN + ViTPose + PARSeq) for AR sports analytics, within a multidisciplinary research team.
+- **Network-to-Cloud translation** — multimodal AI pipeline converting network topology diagrams into deployable Terraform & Ansible IaC, conducted at **RISC Lab, ENIT**. Co-authored paper accepted at **IEEE AIDIST 2026**.
 
 🌍 **Open to research internships and graduate research collaborations** (Mitacs-style programs included) — especially at the intersection of AI/ML, autonomous agents, and security or communication systems.
 
@@ -64,6 +74,7 @@ I'm moving deliberately from applied engineering toward **research**. I'm curren
 `Computer Vision`
 `Wireless & Communication Systems`
 `IoT · Signal Processing`
+`IEEE Published`
 
 </td>
 </tr>
@@ -71,18 +82,18 @@ I'm moving deliberately from applied engineering toward **research**. I'm curren
 
 ---
 
-### 🎯 What I'm Building Now
+### 🎯 Current Focus
 
 ```text
-IntelForge  ──▶  passive OSINT + active recon, condensed by a LangGraph LLM pipeline
-     │                into a structured exploit-intelligence report
-     ▼
-VoidHawk    ──▶  6 specialized AI agents (Planner · Worker · Cleaner · Analyst ·
-                   Logic · Validator) validate findings and produce CVSS-scored,
-                   RAG-backed reports in PDF / HTML / Markdown
-```
+Research Master (SYSCOM)  ──▶  AI/ML for communications, networks & signal processing
+                                at ENIT — exploring federated learning & autonomous systems
 
-*Two frameworks I built from scratch and am wiring into one end-to-end pentesting pipeline (**DarkIntel**), started during my engineering internship at Keystone Groupe.*
+Advanced RAG  ──────────▶  Extending the Net-to-Cloud translation pipeline with
+                            improved retrieval, multimodal understanding and IaC accuracy
+
+DarkIntel (complete)  ──▶  IntelForge (OSINT → recon) + VoidHawk (6-agent validation)
+                            ──▶  end-to-end autonomous pentesting pipeline
+```
 
 ---
 
@@ -100,6 +111,7 @@ VoidHawk    ──▶  6 specialized AI agents (Planner · Worker · Cleaner · 
   <img src="https://img.shields.io/badge/RAG-2ECC71?style=flat-square"/>
   <img src="https://img.shields.io/badge/ChromaDB-FFB000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Sentence--Transformers-2ECC71?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Federated_Learning-2ECC71?style=flat-square"/>
 </p>
 
 **🛡️ Cybersecurity & Offensive Security**
@@ -119,6 +131,7 @@ VoidHawk    ──▶  6 specialized AI agents (Planner · Worker · Cleaner · 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 **💻 Development & Data**
@@ -149,7 +162,7 @@ Autonomous pentest & recon framework: passive OSINT + Nmap TCP/UDP recon, conden
 
 **[☁️ RAG Net-to-Cloud Automation](https://github.com/WaelHammali/Advanced-RAG-For-Net_To_Cloud-Translation)**
 
-Reads network architecture diagrams with **YOLOv8** + **RAG** and auto-generates production-ready **Terraform & Ansible** IaC — physical infra mapped to cloud equivalents. *(Year 2 Final Project)*
+Reads network architecture diagrams with **YOLOv8** + **RAG** and auto-generates production-ready **Terraform & Ansible** IaC — physical infra mapped to cloud equivalents. Co-authored paper accepted at **IEEE AIDIST 2026**.
 `Python · YOLOv8 · RAG · Terraform · Ansible`
 
 </td>
@@ -159,10 +172,20 @@ Reads network architecture diagrams with **YOLOv8** + **RAG** and auto-generates
 
 **[⚽ Jersey Number Recognition](https://github.com/WaelHammali/Jersey-number-pipeline-extension)**
 
-**Real-ESRGAN** super-resolution + pose estimation pipeline that recognizes player jersey numbers in low-res, motion-blurred broadcast soccer footage. *(SympactAI research, TAIS NextGen)*
+**Real-ESRGAN** super-resolution + pose estimation pipeline that recognizes player jersey numbers in low-res, motion-blurred broadcast soccer footage. Improves SoccerNet tracklet accuracy from 89.63% → 94.07%. *(SympactAI research, TAIS NextGen)*
 `PyTorch · Real-ESRGAN · ViTPose · PARSeq`
 
 </td>
+<td width="50%" valign="top">
+
+**[🧠 EEG Absence Detector](https://github.com/WaelHammali/EGG-Absence-Detector)**
+
+Detects epileptic absence seizures from multichannel EEG signals using signal processing and ML classification — combines domain-specific feature engineering with interpretable outputs.
+`Python · Scikit-learn · Signal Processing · Dash`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[✈️ Aerial Object Detection](https://github.com/WaelHammali/Aerial-object-detection)**
@@ -171,17 +194,16 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 `Python · YOLOv8 · OpenCV · Roboflow`
 
 </td>
+<td width="50%" valign="top">
+
+**[🕶️ VoidHawk](https://github.com/WaelHammali/VoidHawk)**
+
+6-agent **LangGraph** state machine (Planner · Worker · Cleaner · Analyst · Logic · Validator) with **RAG memory** (ChromaDB) for cross-session knowledge, producing **CVSS-scored** reports in PDF / HTML / Markdown. Chained into **[DarkIntel](https://github.com/WaelHammali/DarkIntel)**.
+`Python · LangGraph · Groq · ChromaDB`
+
+</td>
 </tr>
 </table>
-
-<div align="center">
-
-**[🕶️ VoidHawk Penetration Testing Framework](https://github.com/WaelHammali/VoidHawk)** — extended fork of *Watchtower*: a **6-agent LangGraph** state machine (Planner · Worker · Cleaner · Analyst · Logic · Validator) with a **RAG memory** (ChromaDB + Sentence-Transformers) for cross-session knowledge and a severity-ranking engine producing **CVSS-scored** reports in PDF / HTML / Markdown.
-`Python · LangGraph · Groq · OpenAI · ChromaDB`
-
-*Chained with [IntelForge](https://github.com/WaelHammali/IntelForge) into the unified end-to-end **[DarkIntel](https://github.com/WaelHammali/DarkIntel)** pipeline.*
-
-</div>
 
 ---
 
@@ -189,9 +211,10 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 
 | When | Role | Where |
 |------|------|-------|
-| **Jun–Jul 2026** | AI-Powered Pentest Command Framework — *DarkIntel* (built IntelForge + VoidHawk, unified pipeline) | **Keystone Groupe** |
-| **Jun–Aug 2026** | Research Project — Camera Calibration & Jersey Recognition for AR Soccer Analytics, *SympactAI 2nd Ed.* | **TAIS NextGen** |
-| **Jul–Aug 2025** | Network & Security Infrastructure audit (cabling, switches, firewalls, servers) | **TAV Airports** |
+| **Jun–Aug 2026** | Research Project — Camera Calibration & Jersey Number Recognition for AR Soccer Analytics *(SympactAI 2nd Ed.)* | **TAIS NextGen** |
+| **Jun–Jul 2026** | AI & Cybersecurity Intern — built DarkIntel: end-to-end autonomous pentesting pipeline (IntelForge + VoidHawk) | **Keystone Groupe** |
+| **2025–2026** | Research Project — Multimodal AI for Network-to-Cloud IaC translation · Co-authored paper accepted at **IEEE AIDIST 2026** | **RISC Lab, ENIT** |
+| **Jul–Aug 2025** | Network & Security Infrastructure Intern — audited cabling, switches, firewalls & servers at Enfidha-Hammamet airport | **TAV Airports** |
 
 ---
 
@@ -210,6 +233,7 @@ Dual-model **YOLOv8** pipeline tackling severe class imbalance in aerial imagery
 - 🏴 **Securinets** — Cybersecurity Club · CTF competitions & security workshops
 - 💻 **G2FOSS** — Golden Member & Event Organizer · ran the *League of Coders* competitive-programming event
 - 🤖 **FabLab** — Organizing Member · co-organized *Aero-Fab* robotics competition
+- 🏆 **Injaz El Arab** — Competition participant (2025)
 
 ---
 
